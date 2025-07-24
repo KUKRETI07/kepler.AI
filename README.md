@@ -1,14 +1,14 @@
-# 🧠 Kepler: An Emotionally Intelligent AI Assistant (Inspired by Jarvis)
+# 🧠 Kepler: An Emotionally Intelligent AI Assistant 
 
 Kepler is not just another chatbot. It’s an emotionally intelligent, evolving AI assistant designed to understand *you* — your mood, your thoughts, your personality — and adapt to them like a true companion.
 
-Built from scratch by [Tony (Shubham Kukreti)](https://github.com/yourusername), Kepler started as a basic if-else rule engine and evolved into a fine-tuned conversational LLM trained on real emotional conversations — capable of empathy, humor, comfort, curiosity, and learning.
+Built from scratch, Kepler started as a basic if-else rule engine and evolved into a fine-tuned conversational LLM trained on real emotional conversations — capable of empathy, humor, comfort, curiosity, and learning.
 
 ---
 
-## 🚀 Project Overview
+##  Project Overview
 
-> **“If Jarvis had a soul, this would be its blueprint.”**
+> **“If kepler had a soul, this would be its blueprint.”**
 
 Kepler is developed in **phases**, transforming from a deterministic logic-based chatbot to a powerful language model with deep emotional awareness:
 
