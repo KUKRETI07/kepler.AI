@@ -4,6 +4,8 @@ Kepler is not just another chatbot. It’s an emotionally intelligent, evolving 
 
 Built from scratch, Kepler started as a basic if-else rule engine and evolved into a fine-tuned conversational LLM trained on real emotional conversations — capable of empathy, humor, comfort, curiosity, and learning.
 
+![Prediction Chart](https://github.com/KUKRETI07/kepler.AI/blob/cf1b0f51eb21656714e12b76c7282f60887646a0/Screenshot%20(35).png)
+
 ---
 
 ##  Project Overview
